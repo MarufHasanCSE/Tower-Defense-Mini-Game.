@@ -1,0 +1,33 @@
+body {
+    background: #020617;
+    color: #38bdf8;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.ui {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.stats {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.shop {
+    font-size: 0.9rem;
+    color: #94a3b8;
+}
+
+canvas {
+    background: #0f172a;
+    border: 2px solid #1e293b;
+    cursor: crosshair;
+}
